@@ -6,7 +6,7 @@ int main()
     int satirust,sutunust;
     for(satirust=1; satirust<=5; satirust++)
         {
-            for(sutunust=1; sutunust<=satirust; sutunust++)
+            for(sutunust=1; sutunust<=5; sutunust++)
                 {
                     printf("*");
                 }

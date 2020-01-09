@@ -4,7 +4,7 @@
 int main()
 {
     int satir,sutun,blok;
-    for(satir=1; satir<=3; satir++)
+    for(satir=1; satir<=4; satir++)
         {
             for(sutun=1; sutun<=4; sutun++)
                 {
